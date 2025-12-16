@@ -1,3 +1,4 @@
 /.idea/
 /venv/
 /src/hydraex.egg-info/
+/src/base.egg-info/
