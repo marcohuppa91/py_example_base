@@ -3,5 +3,5 @@ requires = ["setuptools>=42.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "hydraex"
+name = "base"
 version = "1.0"
